@@ -1,1 +1,1 @@
-Este é o arquivo inicial do projeto Git de Data Science 1
+Alterei esse arquivo para exemplificar.
